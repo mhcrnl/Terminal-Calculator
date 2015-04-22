@@ -4,7 +4,7 @@
 
 
 * Version 0.1
-* Writted in [Vala](https://wiki.gnome.org/Projects/Vala)
+* Writed in [Vala](https://wiki.gnome.org/Projects/Vala)
 
 
 ### What is it ? ###
