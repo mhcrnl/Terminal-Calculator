@@ -9,7 +9,7 @@
 
 ### What is it ? ###
 
-* Simple Terminal Calculator, is, like the name, a simple calculator in Terminal.
+* Simple Terminal Calculator, is a simple calculator in Terminal "No Joke".
 * Why an another calculator ? I just would like to test the Vala language, and improve my skills, so it's just a simple program. This app have nothing better than another calculator... It's just a start ! :-)
 
 
