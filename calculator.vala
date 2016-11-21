@@ -35,7 +35,4 @@ void main (){
 		c = a / b;
 		print("\n\nFactor of A by B is equal to %g.\n\n", c);
 	}
-
-
-
 }
